@@ -1,2 +1,4 @@
-# cis-2-project-
-data analysis
+# introduction
+This is the repository for the CIS II project:Virtual Reality Simulator for Laminectomy
+
+
