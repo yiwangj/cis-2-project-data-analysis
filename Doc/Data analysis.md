@@ -7,5 +7,6 @@ In order to allow users to visualize the full process of participant drilling an
 ### drilling time analysis
 using drilling time.py
 We calculated the average time to drill in 10 laminectomies for each of the 11 participants, which contained five with color and five with just text. We plotted the boxplot (figure1). In the box plot we can see that there is no significant change in the average time for both, the time with color guidance is rather longer, but we can also find that the distribution of time with color guidance is dense, but the distribution of time without color guidance is highly variance. Although based on the p value of the t-test we believe that the color guidance did not have a significant effect on the drilling time, we can reasonably speculate based on the data that the color guidance did help the physicians to improve the stability and avoid the occurrence of excessively long drilling times.
-![Image text](IMG/voxel_remove_time.png)
+![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+
 
