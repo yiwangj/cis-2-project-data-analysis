@@ -23,4 +23,7 @@ we specifically counted the red voxel removed images, because the red part is th
 using voxel color_removed(110).py
 We investigated the effect of color guidance on voxel-removed. we generate images of voxel removed for eleven participants under ten cases. We generate three colors. Red indicates the bad area, the voxel we do not want to drill out, yellow indicates the sensitive area we should pay attention to, and green indicates the area we really want to drill out.
 
+### progress analysis
+using progress.py
+we want to plot the progress of the non-navigated and navigated cases relative to the type of voxel removed, and both had roughly the same progress (i.e., 25%, 50%, 75%, and 100% completion times, respectively). 
 
