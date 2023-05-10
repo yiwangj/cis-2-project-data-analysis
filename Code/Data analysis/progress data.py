@@ -40,7 +40,8 @@ def rgb_to_hex(r, g, b,alpha):
     
 
 files = []
-files.append(['C_P2_L1_nocolor', '/Users/wangyi/Downloads/Source_Data/tbpq_P4_L1_no_color/2023-04-06 11:18:42'])
+file.append(['name','https://github.com/yiwangj/cis-2-project-data-analysis/tree/main/Data%20Set')
+#files.append(['C_P2_L1_nocolor', '/Users/wangyi/Downloads/Source_Data/tbpq_P4_L1_no_color/2023-04-06 11:18:42'])
 
 
 
