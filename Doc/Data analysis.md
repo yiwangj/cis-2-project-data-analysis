@@ -20,7 +20,7 @@ we specifically counted the red voxel removed images, because the red part is th
 ![Image text](https://github.com/yiwangj/cis-2-project-data-analysis/blob/main/IMG/red%20voxel%20removed.png)
 
 ### voxel removed analysis
-using 
-We investigated the effect of color guidance on voxel-removed. Below are the images of voxel removed for one of the participants under ten cases, and the images of the remaining participants can be viewed in the Appendix. In the following images, we have used three colors. Red indicates the bad area, the voxel we do not want to drill out, yellow indicates the sensitive area we should pay attention to, and green indicates the area we really want to drill out.
+using voxel color_removed(110).py
+We investigated the effect of color guidance on voxel-removed. we generate images of voxel removed for eleven participants under ten cases. We generate three colors. Red indicates the bad area, the voxel we do not want to drill out, yellow indicates the sensitive area we should pay attention to, and green indicates the area we really want to drill out.
 
 
