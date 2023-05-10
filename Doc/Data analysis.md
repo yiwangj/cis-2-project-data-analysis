@@ -26,6 +26,9 @@ We investigated the effect of color guidance on voxel-removed. we generate image
 ### progress analysis
 using progress.py
 we want to plot the progress of the non-navigated and navigated cases relative to the type of voxel removed, and both had roughly the same progress (i.e., 25%, 50%, 75%, and 100% completion times, respectively). 
+Below is one example. noncolor case(top) color case(bottom)
+![Image text](https://github.com/yiwangj/cis-2-project-data-analysis/blob/main/IMG/C_P1_L1_nocolor_case.png)
+
 
 ### t-test
 using t_test.py
