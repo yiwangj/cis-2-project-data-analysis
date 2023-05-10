@@ -15,8 +15,9 @@ We studied the effect of color guidance on the force of each stroke, we calculat
 ![Image text](https://github.com/yiwangj/cis-2-project-data-analysis/blob/main/IMG/Force%20Magnitude(N).png)
 
 ### red voxel removed analysis
-using 
+using red voxel removed(1).py
 we specifically counted the red voxel removed images, because the red part is the part we do not want to drill down. We counted the average number of red voxels removed for 11 participants in ten cases, and the results are shown in figure 3. We can see that the number of red voxels with the color guide is smaller than the number without the voxel guide.
+
 
 
 
