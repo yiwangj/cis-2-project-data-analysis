@@ -27,3 +27,7 @@ We investigated the effect of color guidance on voxel-removed. we generate image
 using progress.py
 we want to plot the progress of the non-navigated and navigated cases relative to the type of voxel removed, and both had roughly the same progress (i.e., 25%, 50%, 75%, and 100% completion times, respectively). 
 
+### t-test
+using t_test.py
+using t_test to check whether there is a significant difference in paired measurements.
+
